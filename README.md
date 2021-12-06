@@ -1,3 +1,3 @@
 # TaskHandler
 
-not completed task handler project made by me
+not completed task handler project made in JAVA FX 
